@@ -35,6 +35,7 @@ public class AntiAfk extends Hack{
 		if(timer.isDelay((long)(1000 * delay.getValue()))) {
 			Wrapper.INSTANCE.player().jump();
 			timer.setLastMS();
+			Wrapper.INSTANCE.player().		
 		}
 		super.onClientTick(event); 
 	}

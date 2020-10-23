@@ -25,7 +25,7 @@ public class Suicide extends Hack{
 	
 	@Override
 	public String getDescription() {
-		return "Kills you.";
+		return "Kills you. (self ded)";
 	}
 	
 	@Override
@@ -33,6 +33,7 @@ public class Suicide extends Hack{
 		if(Wrapper.INSTANCE.player().isDead) this.toggle();
 		Utils.selfDamage(damage.getValue().doubleValue());
 		super.onClientTick(event);
+
 	}
 	
 }

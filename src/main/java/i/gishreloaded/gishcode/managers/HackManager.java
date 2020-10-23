@@ -112,6 +112,7 @@ public class HackManager {
 		addHack(new ArmorHUD());
 		addHack(new HUD());
 		addHack(new ClickGui());
+
 	}
 	
 	public void setGuiManager(GuiManager guiManager) {
