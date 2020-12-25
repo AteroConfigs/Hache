@@ -1,7 +1,3 @@
-/*******************************************************************************
- *     GishCode a Forge Hacked Client
- *     Copyright (C) 2019 Gish_Reloaded
- ******************************************************************************/
 package i.gishreloaded.gishcode;
 
 import i.gishreloaded.gishcode.managers.FileManager;
