@@ -9,13 +9,7 @@ Minecraft hacked client for Minecraft Forge 1.12.2
 # Info
 Please do not use this to ruin people's days, I hate hackers. 
 This client only exists for anarchy servers, like 2b2t.
-Don't
-Use
-This
-To
-Annoy
-People
-Thank you :)
+
 
   [JavaInjector]: https://github.com/TheQmaks/JavaInjector
 
